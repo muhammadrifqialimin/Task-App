@@ -70,7 +70,7 @@ Follow these steps to run the project locally.
 
    ```bash
    git clone [YOUR_REPO_URL]
-   cd Proyek1
+   cd Task-App
    ```
 
 3. **Install Dependencies**
