@@ -1,4 +1,4 @@
-# 📋 Next.js Task Management API
+# 📋 task-manager-api
 
 ![Next.js](https://img.shields.io/badge/Next.js-v16-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-v19-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -70,7 +70,7 @@ Follow these steps to run the project locally.
 
    ```bash
    git clone [YOUR_REPO_URL]
-   cd Task-App
+   cd task-manager-api
    ```
 
 3. **Install Dependencies**
